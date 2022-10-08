@@ -1,15 +1,15 @@
-<!--Banner by @Nickichann01
-<p> <img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/> </p> -->
+<!--Banner by @Nickichann01 -->
+<p> <img align = "center" alt="gif" src="https://github.com/IloiloBorders/.github/blob/main/Banner.gif" width="1500" height="300"/> </p>
 
-## Hi there welcome to STIers Iloilo side projects 👋
+
+<h1 align="center">Hi there welcome to STIers Iloilo side projects 👋</h1>
+<h4 align="center">The purpose of this organization is to solve our everyday problems using our course BSIT (Bachelor of Science in Information System. And this is also a practice to hone deeper our skills in programming.</h4>
+
+<p>On this organization you'll see how we solve our problems that we are facing on our apartment. Using technology we are going solve our problem in Finance, Food, Simple house task and many more.</p>
+
 
 <!--
 
-**Here are some ideas to get you started:**
+Sample lang ni hah! Evverything that you can see here is just a sample. Thank you!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
